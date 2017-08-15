@@ -1,3 +1,3 @@
 # Bryce Portfolio Website
 
-https://brycesulin.github.io/#home
+https://brycesulin.github.io
