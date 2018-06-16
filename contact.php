@@ -2,8 +2,8 @@
 if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "tphorbin@gmail.com";
-    $email_subject = "Contact Form @ tphorbin.github.io";
+    $email_to = "sulin@uwalumni.com";
+    $email_subject = "Contact Form @ brycesulin.github.io";
  
     function died($error) {
         // your error code can go here
@@ -76,7 +76,7 @@ $headers = 'From: '.$email_from."\r\n".
 <!-- include your own success html here -->
  
 <div align="center"><h3>Thank you for contacting me. I will be in touch with you very soon.</h3>
-<br><a href="http://horbin.ski">Return to horbin.ski</a></div>
+<br><a href="http://brycesulin.github.io">Return to brycesulin.github.io</a></div>
  
 <?php
  
